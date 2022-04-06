@@ -1,0 +1,40 @@
+H1 {
+    color: #000;
+    background-color: rgb(15, 131, 131);
+    border-color: black;
+    font-style: inherit;
+}
+
+body {
+    color: #584058;
+    background-color: rgb(164, 170, 157);
+    border-color: black;
+    font-style: normal;
+}
+
+h2 {
+    color: rgb(38, 82, 121);
+}
+
+tr {
+    background-color: rgb(15, 131, 131);
+    background-position: 10%;
+    color: rgb(38, 82, 121);
+    font-style: italic;
+    border-color: black;
+}
+
+.dino1 {
+    padding: 10px;
+    border: 50px;
+    margin: 50px;
+    width: 90%;
+    height: auto;
+    border: 0;
+}
+
+.headlap {
+    width: 100%;
+    height: auto;
+    border: 0;
+}
